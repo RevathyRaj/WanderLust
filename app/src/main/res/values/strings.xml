@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WanderLust</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="base_url">https://mobilemiddleware.eu-gb.mybluemix.net/</string>
+    <string name="title_activity_home">Home</string>
+</resources>
